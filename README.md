@@ -1,7 +1,6 @@
 # Liu-labbar
 
 * Labbar från kursen **Att undervisa artificiell intelligens på gymnasial nivå – tekniska perspektiv (961G56 2026VT RU)**
-* Labbar från kursen **Att undervisa artificiell intelligens på gymnasial nivå – tekniska perspektiv (961G56 2026VT RU)**
 * https://liuonline.sharepoint.com/sites/Lisam_961G56_2026VT_RU
 
 ## Kursöversikt
